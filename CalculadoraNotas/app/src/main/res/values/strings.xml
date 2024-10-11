@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">notasEstudiantes</string>
+    <string name="tlPrincipal">Calculando Nota Final</string>
+    <string name="tlNombre">Estudiante:</string>
+    <string name="tlMateria">Asignatura:</string>
+    <string name="tlFecha">Fecha</string>
+    <string name="tlNota1">Corte 1:</string>
+    <string name="tlNota2">Corte 2:</string>
+    <string name="tlNota3">Corte 3:</string>
+    <string name="tlDef">Nota Definitiva:</string>
+    <string name="btnAnterior">Anterior</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="n1"> </string>
+    <string name="n2"> </string>
+    <string name="n3"> </string>
+    <string name="n4"> </string>
+</resources>
